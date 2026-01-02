@@ -66,7 +66,7 @@
 
 - 使用するフレームワーク 　Ruby on Rails 8.0.x　Ruby 3.4.x　React 19.x　Node.js 22.x (LTS)
 - データベース　PostgreSQL
-- デプロイ先 　Google Cloud（Firebase Hosting, Cloud Run, Cloud SQL）
+- デプロイ先 　Fly.io
 - 使用予定のライブラリ
 　kaminari（過去URLの「公開日ごと」のページ分けを簡単に実装）
 　rack-cors(React（フロント）からのAPIリクエストを許可)
